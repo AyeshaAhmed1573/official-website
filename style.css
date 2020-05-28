@@ -1,0 +1,94 @@
+#img2{
+    height: 80px;
+}
+.navbar{
+    
+    color: white;
+    background-image: url(mainfactory.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+li:hover{
+    background-color: red;
+    border-radius: 5px;
+   color: white;
+}
+li{
+    margin-left: 20px;
+    font-family: 'lucida handwriting';
+}
+a{
+    color: orange;
+}
+#a1{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    font-family: 'lucida handwriting';
+
+}
+a{
+    color: white;
+    font-size: 20px;
+}
+#navbarDropdownMenuLink{
+    color: white;
+}
+#a2{
+    font-size: 20px;
+    color: white;
+    font-family: 'lucida handwriting';
+}
+h3{
+    color: red;
+    font-family: 'lucida handwriting';
+
+}
+#p1{
+     
+    font-family: 'Lucida handwriting';
+    background-color: black;
+    color:gray;
+    height: 60px; 
+    font-size: 25px;
+    
+}
+#img3{
+    height: 500px;
+}
+#p2{
+    font-size: 25px;
+    font-family: 'lucida handwriting';
+background-color: gray;
+}
+
+#p3{
+    color: black;
+    font-family: 'lucida handwriting';
+    font-size: 50px;
+    margin-top: 150px;
+   font-weight: bolder;
+   text-decoration: underline black;
+}
+#p4{
+    font-size: 20px;
+    font-family: serif;
+    margin-left:20% ;
+    margin-right:20%;
+
+ }
+body{
+    background-image: url(gradient.jpg);
+}
+
+#p5{
+    font-size: 15px;
+
+    font-weight: bold;
+    margin-left: 20%;
+}
+#fluid{
+    background-color:white;
+    
+}
+
