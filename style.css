@@ -6,7 +6,8 @@
     color: white;
     background-image: url(mainfactory.jpeg);
     background-repeat: no-repeat;
-    background-size: 1600px;
+    background-size: 1400px
+
 }
 li:hover{
     background-color: red;
@@ -73,12 +74,13 @@ background-color: gray;
 #p4{
     font-size: 20px;
     font-family: serif;
-    margin-left:20% ;
-    margin-right:20%;
+ 
+   
 
  }
 body{
     background-image: url(gradient.jpg);
+   
 }
 
 #p5{
@@ -92,3 +94,7 @@ body{
     
 }
 
+#slide{
+    background-color: black;
+    height: 80px;
+}
